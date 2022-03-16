@@ -34,7 +34,7 @@ namespace ModTemplate.Harmony_Patches
 
             // <-- Your Code Here --> //
 
-            MyMod.Logger.Msg("Title Screen Animation has shown");
+            
         }
     }
 }

@@ -17,6 +17,9 @@ namespace ModTemplate
         public const string modVersion = "1.0.0.0";
         public const string modAuthor = "Gurrenm4";
 
+        /// <summary>
+        /// This code runs automatically as soon as the mod is registered by MelonLoader.
+        /// </summary>
         public override void OnApplicationStart()
         {
             // <-- Ignore this code --> //
