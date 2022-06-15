@@ -9,6 +9,7 @@
     <ItemGroup>
         <Reference Include="Microsoft.CSharp"/>
         <Reference Include="$(PootDirectory)\Mods\Poot Mod Helper.dll"/>
+		<Reference Include="$(PootDirectory)\MelonLoader\0Harmony.dll"/>
         <Reference Include="$(PootDirectory)\MelonLoader\MelonLoader.dll"/>
         <Reference Include="$(ManagedFolder)\Assembly-CSharp.dll" />
         <Reference Include="$(ManagedFolder)\Il2Cppmscorlib.dll" />
